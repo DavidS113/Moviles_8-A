@@ -1,0 +1,12 @@
+void main() {
+ int f = 10;
+ int s = 100;
+  
+ int suma = f + s; 
+ int resta = f - s;
+ int multiplicacion = f * s;
+  
+ print( suma );
+ print( resta );
+ print( multiplicacion );
+}

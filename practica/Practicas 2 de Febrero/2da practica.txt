@@ -1,0 +1,21 @@
+void main() {
+    //Strings
+  final String nombre = 'Alejandro';
+  //Son aquellas que no cambian desde que las declaramos
+  const apellido = 'Saavedra';
+  //Son lo contrario a las Final por que estas si cambian
+  
+  //nombre = 'Leon';
+  //NO SE PERMITE la variable ya que esta marcado como final
+  
+  print('$nombre $apellido');
+  //para poder imprimir strings necesitamos poner el signo $
+  
+  
+// Numeros
+  int empleados = 10;
+  double salario = 1856.25;
+  
+  print( empleados );
+  print( salario );
+}
