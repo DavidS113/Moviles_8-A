@@ -1,0 +1,57 @@
+import 'dart:math';
+
+void main(){
+  int cambio=-1;
+  int prnumero =10;
+  int secnumero=5;
+  Random numeroran = Random();
+  int nrandom = numeroran.nextInt(4) + 1;
+  
+  
+  if(cambio<0){
+    cambio=nrandom;
+   }
+  else{
+    cambio=0;
+  }
+  
+  if(cambio==1){
+    int suma = prnumero + secnumero;
+    print('La suma de:');
+    print(prnumero);
+    print('mas');
+    print(secnumero);
+    print('Es igual a:');
+    print(suma);
+  }
+  
+  if(cambio==2){
+    int multi = prnumero * secnumero;
+    print('La multiplicasion de:');
+    print(prnumero);
+    print('por');
+    print(secnumero);
+    print('Es igual a:');
+    print(multi);
+  }
+  
+  if(cambio==3){
+    int rest = prnumero - secnumero;
+    print('La resta de:');
+    print(prnumero);
+    print('menos');
+    print(secnumero);
+    print('Es igual a:');
+    print(rest);
+  }
+  
+  if(cambio==4){
+    double div = prnumero / secnumero;
+    print('La divicion de:');
+    print(prnumero);
+    print('entre');
+    print(secnumero);
+    print('Es igual a:');
+    print(div);
+  }
+}

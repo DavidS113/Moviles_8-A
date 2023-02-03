@@ -1,0 +1,14 @@
+void main(){
+  //Booleano
+  bool? isActive;
+  
+  //const int random= Random();
+  
+  
+  if(isActive ==null){
+    print('isActive es null');
+  }
+  else{
+    print('is Active es true');
+  }
+}
