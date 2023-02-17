@@ -1,0 +1,26 @@
+void main(){
+  //Strings
+  final String nombre = 'Tony';
+  //'final' son aquellas que no cambian desde que las declaramos
+  
+  const apellido = 'Stark';
+  //Son lo contrareo a las final, ya que si pueden cambiar 
+
+  //nombre = 'Peter';
+  //Aqui no se perimte el cambio de la variable nombre porque esat definidad como 'final'
+
+  print('$nombre $apellido');
+  
+  //Numeros
+  int empleados =10;
+  double salario= 1865.25;
+  
+  /*
+   * print('$empleados');
+   * Aqui no imprime el valor de la variable por que 
+   * toma como si la estubieramos mandando a llamar
+  */
+  
+  print(empleados);
+  print(salario);
+}
