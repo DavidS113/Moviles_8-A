@@ -4,6 +4,7 @@ Este Proyecto es Presentado por David Martinez Moreno y Alejandro Saavedra de Je
 
 ## Getting Started
 
+Retro Gamers:
 Este proyecto tiene almacenados en GitHub 2 apartados:
 La Documentacion: Contiene la informacion principal de la aplicacion (Cual es el objetivo de esta) la cual muestra las razones por la cual se crea principalmente
 La Practica: Contiene algunas practicas que nos podrian ayudar o servir como ejemplo para el proyecto asi como tambien contiene la carpeta del proyecto que se realizara
