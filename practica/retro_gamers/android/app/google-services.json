@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "228896636255",
+    "project_id": "retro-gamers-ffa23",
+    "storage_bucket": "retro-gamers-ffa23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228896636255:android:c6651762141f70debc8aea",
+        "android_client_info": {
+          "package_name": "com.mycompany.retrogamers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228896636255-h0t9spiib0i0h5ibu85isenbillb047c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.retrogamers",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "228896636255-8e9ar48hmdtv5stu70d2ikg68i47t7jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtUQjG3B14RgF8Vw5IuENgW_vthTYBdFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228896636255-8e9ar48hmdtv5stu70d2ikg68i47t7jf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228896636255-g0r0tu8cu30kf4d5tcql30envnknubdv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.retrogamers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
